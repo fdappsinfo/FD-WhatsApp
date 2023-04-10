@@ -1,2 +1,2 @@
-#Com.Whatsapp
-#Com.whatsapp2nd 
+#Com.Whatsapp.   WhatsApp 
+#Com.fdwhatsapp. WhatsApp 2nd 
