@@ -1,10 +1,11 @@
+
 {
   "records": [
     {
-      "version": "FDWhatsApp v6.0.3",
-      "code": 63,
+      "version": "FDWhatsApp v7.1.2",
+      "code": 65,
       "url": "https://fahadwhatsapp.blogspot.com/p/fd-whatsapp-v603.html?m=1",
-      "changelog": " - AntiBan - LEFT and RIGHT Tab Home UI - Home Drawer View - Favorites Contact access in Home Drawer View - Home ViewPager Animation and Scrollable - Carrousel Stories View "
-   }
+      "changelog":  " - Base Update - Extended - Chat UI Customize Option - Chats Row Size - Add New Entry Layout - Fix Bug "
+    }
   ]
 }
